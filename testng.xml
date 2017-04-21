@@ -1,0 +1,28 @@
+
+
+
+
+
+
+<suite name="Suite">
+ 
+  <test name="Test">
+    <classes>
+      <class name="testng.WebTable_Testing"/>
+      <class name="testng.NewTest"/>
+      <class name="testng.webtable"></class>
+    </classes>
+  </test> 
+  
+  
+  <test name="test2">
+  
+  	<classes>
+  		<class name="day10.Webatble_Rows"></class>
+  	
+  	</classes>
+  </test>
+  
+  
+  
+</suite> 

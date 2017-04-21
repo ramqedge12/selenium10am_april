@@ -1,0 +1,25 @@
+
+
+<suite name="Suite">
+	
+	<test name="Regression1" >
+  	<classes>
+ 
+    <class name="testng.NewTest">
+      <methods>
+        <include name="f" />
+        <include name="b" />
+      </methods>
+    </class>
+  
+  <class name="testng.WebTable_Testing">
+      <methods>
+        <include name="f" />
+        
+      </methods>
+    </class>
+  
+  </classes>
+ </test>
+
+</suite>
